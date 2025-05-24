@@ -1,7 +1,7 @@
 # 🎯 Technical Portfolio
 ---
 
-## 📝 **AWS Blog Posts & Technical Articles**
+## 📝 ** Blog Posts & Technical Articles**
 
 ### **Game Infrastructure & Containers**
 - [Developer's Guide to operate game servers on Kubernetes – Part 2](https://aws.amazon.com/blogs/gametech/developers-guide-to-operate-game-servers-on-kubernetes-part-2/)
@@ -13,6 +13,8 @@
 - [Managing your game studio on AWS part three](https://aws.amazon.com/blogs/gametech/managing-your-game-studio-on-aws-part-three/)
 - [How to add notifications and manual approval to an AWS CDK Pipeline](https://aws.amazon.com/blogs/devops/how-to-add-notifications-and-manual-approval-to-an-aws-cdk-pipeline/)
 
+### **Smart Cities**
+- [3 words to secure land tenure with Camidus](https://what3words.com/news/general/camidus)
 ---
 
 ## 🏗️ **AWS Solution Guidance**
@@ -67,7 +69,6 @@
   - [How Spinnaker is Shaping Delivery Excellence at SAP](https://www.youtube.com/watch?v=A9tfyrayv9M) - cdCon 2020
   - [How Spinnaker is Shaping Delivery Excellence at SAP](https://www.youtube.com/watch?v=vOHbiDK3tGU) - Spinnaker Live 2021
   - [Pipeline Redemption: How Spinnaker is shaping delivery excellence at SAP](https://blog.spinnaker.io/pipeline-redemption-how-spinnaker-is-shaping-delivery-excellence-at-sap-3b3c931b4f63)
-  - [3 words to secure land tenure with Camidus](https://what3words.com/news/general/camidus)
 
 ---
 

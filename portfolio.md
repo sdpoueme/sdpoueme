@@ -1,7 +1,7 @@
 # 🎯 Technical Portfolio
 ---
 
-## 📝 ** Blog Posts & Technical Articles**
+## 📝 **Blog Posts & Technical Articles**
 
 ### **Game Infrastructure & Containers**
 - [Developer's Guide to operate game servers on Kubernetes – Part 2](https://aws.amazon.com/blogs/gametech/developers-guide-to-operate-game-servers-on-kubernetes-part-2/)

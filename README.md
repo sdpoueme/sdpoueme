@@ -99,6 +99,7 @@ graph TD
 ### 📫 Let's Connect
 
 - 💼 **LinkedIn:** [Connect for cloud architecture discussions](https://www.linkedin.com/in/sergepoueme/)
+- 🎯 **Technical Portfolio:** [Check what I am working on](portfolio.md)
 - 🎤 **Speaking:** Available for conferences, workshops, and technical presentations
 - 🤝 **Collaboration:** Open to cloud-native gaming infrastructure projects
 - 📧 **Contact:** Available upon request

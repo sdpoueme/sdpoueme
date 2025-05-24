@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Serge Poueme
-## Cloud Solutions Architecture Leader | AWS Senior Solutions Architect
+## Senior Solutions Architect
 
 *Accomplished technology leader with 15+ years driving strategic cloud initiatives, architecting scalable solutions, and leading high-performing teams across gaming, fintech, and enterprise domains.*
 

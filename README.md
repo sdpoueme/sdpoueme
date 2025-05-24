@@ -8,22 +8,22 @@
 ### 🎮 Current Role & Impact
 **Senior Solutions Architect at AWS** | *Game Backend & Infrastructure Focus Area Leader*
 
-- 🚀 Leading AWS's **$15M+ ARR Game Backend & Infrastructure** global technical community
-- 🌍 Managing **15+ specialists across 4 regions** supporting major game launches with **200M+ concurrent users**
-- 🎯 Drove **$XX million AWS solutions architecture initiatives** scaling major gaming services to **100M+ players worldwide**
+- 🚀 Leading AWS's Game Backend and Infrastructure global technical community
+- 🌍 Collaborating with **specialists across 4 regions** supporting major game launches with **millions of concurrent users**
+- 🎯 Drove **million dollars revenue AWS solutions architecture initiatives** scaling major gaming services to **100M+ players worldwide**
 - 📈 Built gaming client's AWS community from **20 to 480 members** through **30+ thought leadership activities**
 
 ### 🏗️ Technical Expertise & Solutions
 
 #### **Game Infrastructure & Scaling**
-- **Kubernetes-based Game Servers:** Led open-source project driving **$XX million target revenue** through container adoption
-- **AWS GameLift & Containers:** Official solution guidance for game server hosting on Amazon EKS with Agones/OpenMatch
-- **Massive Scale Observability:** Managed Prometheus deployments supporting **600M+ active series, 70B+ samples/month**
+- **Kubernetes-based Game Infrastructure:** Leading open-source initiatives to drivie containers adoption for game servers
+- **AWS EKS & Containers:** Official solution guidance for game server hosting on Amazon EKS with Agones/OpenMatch
+- **Massive Scale Observability:** Designed Prometheus deployments supporting **600M+ active series, 70B+ samples/month**
 
 #### **Enterprise Cloud Architecture**
 - **DevOps Transformation:** Reduced deployment times from **6 months to 3 weeks** using Kubernetes, Jenkins & Spinnaker
 - **Cost Optimization:** Delivered **$1M+ cost savings** through strategic cloud optimizations
-- **Multi-Region Deployments:** Managed **6 Kubernetes clusters** across cloud and private data centers
+- **Multi-Region Deployments:** Automated the management of a **fleet of Kubernetes clusters** across cloud and private data centers
 
 #### **Business Impact & Leadership**
 - **Revenue Growth:** Contributed to **significant YoY revenue growth** and enterprise customer success
@@ -90,7 +90,7 @@ graph TD
 
 ### 📈 Notable Achievements
 
-- 🎮 **Game Server Innovation:** Pioneered Kubernetes-based game server solutions serving 200M+ concurrent users
+- 🎮 **Game Server Innovation:** EKS-based game infrastructure solutions and reference architectures
 - 💰 **Cost Optimization:** Delivered multi-million dollar cost savings across enterprise customers
 - 👥 **Team Leadership:** Built and managed global technical communities of 480+ members
 - 🚀 **Platform Scaling:** Reduced software deployment cycles from months to weeks

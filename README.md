@@ -26,8 +26,8 @@
 - **Multi-Region Deployments:** Automated the management of a **fleet of Kubernetes clusters** across cloud and private data centers
 
 #### **Business Impact & Leadership**
-- **Revenue Growth:** Contributed to **significant YoY revenue growth** and enterprise customer success
-- **Community Building:** Grew technical communities and delivered **17 workshops** on cloud-native technologies
+- **Revenue Growth:** Contributing to **significant YoY revenue growth** and enterprise customer success
+- **Community Building:** Growing technical communities and delivered **17 workshops** on cloud-native technologies
 - **Compliance & Security:** Led implementation of **GDPR, ISO 17799, PCI-DSSv2** in production environments
 
 ### 🛠 Technology Stack
@@ -39,7 +39,7 @@ Infrastructure:     Terraform, AWS CDK, CloudFormation, Spinnaker
 Gaming:             Amazon GameLift, AWS Global Accelerator, Container-based game servers
 Observability:      Prometheus, CloudWatch, Grafana, Distributed tracing
 DevOps:             CI/CD, Jenkins, GitLab, CodePipeline, CodeBuild
-Languages:          Go, Python, Java, Infrastructure as Code
+Languages:          Go, Python, C, C++, Assembly, React, Javascript, Java, Infrastructure as Code
 ```
 
 ### 🎤 Speaking & Thought Leadership

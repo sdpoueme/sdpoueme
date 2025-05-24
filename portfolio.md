@@ -1,4 +1,4 @@
-# 🎯 Technical Portfolio - Serge Poueme
+# 🎯 Technical Portfolio
 ---
 
 ## 📝 **AWS Blog Posts & Technical Articles**
@@ -60,17 +60,14 @@
 **2021**
 - **Continuous integration strategies and best practices** - re:Invent 2021
 
-### **🎮 Industry Conferences**
+### 🎮 Industry Conferences
 - **Why Your Single Player Game Needs a Backend** - XP Game Developer Summit Toronto 2023
-
-### **📊 Pre-AWS Speaking History**
-
-**Open Source & DevOps Community**
-- **Overcoming the challenges of using Spinnaker as a multi-tenant CD service** - Spinnaker Summit 2020
-- **How Spinnaker is Shaping Delivery Excellence at SAP** - cdCon 2020
-- **How Spinnaker is Shaping Delivery Excellence at SAP** - Spinnaker Live 2021
-- **Shared Services Platforms** - SAP DKOM 2019, 2020, SAP Cloud Days 2020
-- **Pipeline Redemption: How Spinnaker is shaping delivery excellence at SAP**
+- **Open Source & DevOps Community**
+  - [Overcoming the challenges of using Spinnaker as a multi-tenant CD service](https://www.youtube.com/watch?v=Ed9IHsi40PI) - Spinnaker Summit 2020
+  - [How Spinnaker is Shaping Delivery Excellence at SAP](https://www.youtube.com/watch?v=A9tfyrayv9M) - cdCon 2020
+  - [How Spinnaker is Shaping Delivery Excellence at SAP](https://www.youtube.com/watch?v=vOHbiDK3tGU) - Spinnaker Live 2021
+  - [Pipeline Redemption: How Spinnaker is shaping delivery excellence at SAP](https://blog.spinnaker.io/pipeline-redemption-how-spinnaker-is-shaping-delivery-excellence-at-sap-3b3c931b4f63)
+  - [3 words to secure land tenure with Camidus](https://what3words.com/news/general/camidus)
 
 ---
 

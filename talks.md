@@ -1,6 +1,4 @@
 # 🎯 Technical Portfolio - Serge Poueme
-## AWS Senior Solutions Architect | Game Infrastructure Leader
-
 ---
 
 ## 📝 **AWS Blog Posts & Technical Articles**

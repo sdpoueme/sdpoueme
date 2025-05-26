@@ -5,7 +5,7 @@
 
 ---
 
-## 🌍 Mission & Vision
+## 🌍 My Tech Mission & Vision
 
 I am passionate about value creation and the reduction of the digital divide. I strongly believe in the critical role that engineers play in solving global challenges. My work focuses on leveraging technology to create sustainable solutions for urbanization, land tenure management, and digital inclusion in Africa and other developing regions.
 

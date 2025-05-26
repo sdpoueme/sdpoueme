@@ -92,17 +92,19 @@ graph TD
 
 - 🎮 **Game Server Innovation:** EKS-based game infrastructure solutions and reference architectures
 - 💰 **Cost Optimization:** Delivered multi-million dollar cost savings across enterprise customers
-- 👥 **Team Leadership:** Built and managed global technical communities of 480+ members
+- 👥 **Team Leadership:** Built and managed global technical communities of 240+ members
 - 🚀 **Platform Scaling:** Reduced software deployment cycles from months to weeks
 - 🔐 **Security Excellence:** Implemented enterprise compliance across critical gaming infrastructure
 
 ### 📫 Let's Connect
 
 - 💼 **LinkedIn:** [Connect for cloud architecture discussions](https://www.linkedin.com/in/sergepoueme/)
-- 🎯 **Technical Portfolio:** [Check what I am working on](portfolio.md)
+- 🎯 **Technical Portfolio:** [Check what I am currently working on](portfolio.md)
+- :bulb:  **Tech Entrepreneurship:** [Learn about innovative projects I worked on](innovation.md)
+- :cityscape: **Camidus:** [Check my work on smart cities and urban resilience](camidus.md)
 - 🎤 **Speaking:** Available for conferences, workshops, and technical presentations
 - 🤝 **Collaboration:** Open to cloud-native gaming infrastructure projects
-- 📧 **Contact:** Available upon request
+
 
 ---
 

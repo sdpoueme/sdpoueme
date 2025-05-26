@@ -1,7 +1,7 @@
 
 ---
 
-> *"The world is at an inflection point; advancement in AI, robotics, healthcare or earth observation will unveil new markets. We have more opportunities now than ever to solve major challenges and build a brighter future for the next generations."* - 2023
+> *"The world is at an inflection point; advancement in AI, robotics, healthcare or earth observation will unveil new markets. We have more opportunities now than ever to solve major challenges and build a brighter future for the next generations."* - Serge Poueme, 2023
 
 ---
 
@@ -92,4 +92,3 @@ I believe in the power of collaborative innovation and have consistently worked 
 
 ---
 
-*"The world is at an inflection point; advancement in AI, robotics, healthcare or earth observation will unveil new markets. We have more opportunities now than ever to solve major challenges and build a brighter future for the next generations."* - Serge Poueme, 2023
